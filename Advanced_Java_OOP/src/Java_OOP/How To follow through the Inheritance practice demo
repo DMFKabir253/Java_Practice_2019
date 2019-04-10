@@ -1,0 +1,6 @@
+The hierarchy of the inheritance example is as follows
+
+1. Master class : Box_Inheritance
+2. Subclass 1. : SmallBox_Inheritance
+3. Subclass 2. : BigBox_Inheritance
+4. Main class where you will execute the code and call the other classes : Inheritance_Example
